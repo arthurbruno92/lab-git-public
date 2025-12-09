@@ -13,3 +13,4 @@ Manipulação dos arquivos estão sendo realizadas através do Git CLI.
 - 09/12/2025 às 16:33 | Estruturação do documento
 - 09/12/2025 às 16:45 | Testando lista
 - 09/12/2025 às 16:48 | Correção de escrita no arquivo
+- 09/12/2025 às 16:52 | Criação do diretório "Imagens" e três arquivos .png
