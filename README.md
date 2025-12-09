@@ -1,6 +1,13 @@
-# lab-git-public
-Comando adicionado em 09-12-2025 as 14:46
+# Projeto de laboratório do Git com GitHub
 
-# Novo capítulo
+## Objetivos
 
-Adicionado para o segundo commit via CLI
+Realizar as alterações e criações de arquivos local, sincronizar com o GitHub e validar o processo.
+
+### Como foi realizado as alterações?
+
+Alterações realizadas através do Git CLI.
+
+#### Alterações
+
+09/12/2025 as 16:33
