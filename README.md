@@ -10,4 +10,5 @@ Alterações realizadas através do Git CLI.
 
 #### Alterações
 
-09/12/2025 as 16:33
+- 09/12/2025 às 16:33 | Estruturação do documento
+- 09/12/2025 às 16:45 | Testando lista
